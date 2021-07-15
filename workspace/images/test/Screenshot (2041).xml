@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>Screenshot (2041).png</filename>
+	<path>C:\Users\Shubhayu\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\Screenshot (2041).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1377</width>
+		<height>777</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>391</ymin>
+			<xmax>848</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>
